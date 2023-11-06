@@ -19,6 +19,10 @@ WIP
 
 WIP
 
+### Examples
+
+In the examples folder one can find notebooks showcasing how to use the data loading functionality, e.g. for loading data about a topic and training a simple model on it.
+
 ### Tests
 
 WIP
